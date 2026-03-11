@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "di#amond",
+  "base_artist": "z²",
+  "createdAt": "2026-03-11T18:31:54.757674Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "di#amond",
+      "artist": "z²",
+      "has_synced": false,
+      "path": "select/pl_01_di_amond_z2.txt"
+    }
+  ]
+}
